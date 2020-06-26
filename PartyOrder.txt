@@ -1,3 +1,3 @@
-Party Order
-Number of veg dishes=10
-Number of non veg dishes=10
+Party Order-->Rohit
+Number of veg dishes=20
+Number of non veg dishes=20
