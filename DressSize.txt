@@ -1,0 +1,3 @@
+DressSize
+Pant -> 10
+Shirts ->10
