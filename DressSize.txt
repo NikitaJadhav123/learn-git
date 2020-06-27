@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 DressSize-->PersonA
 Pant -> 30
 Shirts ->40
+=======
+DressSize-->personB
+Pant -> 50
+Shirts ->60
+>>>>>>> personB
